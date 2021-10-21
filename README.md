@@ -11,4 +11,6 @@ Please create a testenv folder with the following subfolders in order to be able
 - mockusb3
 - mockusb4
 
-Readme coming soon
+Please use the req.txt and follow the Python message to install the required dependencies. Use of a virtual environment is recommended.
+
+Rest of the Readme coming soon
